@@ -1,7 +1,8 @@
 # 🕹️ Jeu de Pong – Processing
 
-Projet réalisé en première année de Licence Informatique, dans le cadre d’un exercice d’introduction à la programmation graphique avec **Processing**.  
-L'objectif était de reproduire le jeu classique **Pong** avec collisions, score et animation.
+Projet réalisé dans le cadre du TP Algorithmique et programmation 1, un exercice d’introduction à la programmation graphique avec **Processing**. — Université du Havre  
+L'objectif était de reproduire le jeu classique **Pong** avec collisions, score et animation.  
+Encadre par : Mongetro Goint
 
 ---
 
